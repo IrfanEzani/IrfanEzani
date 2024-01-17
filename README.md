@@ -31,7 +31,7 @@
 <a href="https://irfanezani">
 <img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/weirdkidrambles">
+<a href="https://twitter.com/">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/irfanezani">
