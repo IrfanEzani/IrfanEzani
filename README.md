@@ -1,6 +1,6 @@
-### <div align="center"> Irfan Shuhaimi. Himothy University. </div>
+### <div align="center"> Irfan Shuhaimi. Himothy University 😤. </div>
 
-<div align="center">Ball till you fall ⛹️‍♂️.</div>
+<div align="center">Acta non verba.</div>
 
 <br/>
 
