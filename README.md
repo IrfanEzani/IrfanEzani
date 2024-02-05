@@ -1,4 +1,4 @@
-### <div align="center"> Irfan Shuhaimi. Himothy University 😤. </div>
+### <div align="center"> PETRONAS Scholar | CS @ University of Maryland | Alpha Lambda Delta Honor Society | Director of Communications @ NAMSA.  </div>
 
 <div align="center">Acta non verba.</div>
 
