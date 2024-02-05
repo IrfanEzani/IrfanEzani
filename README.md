@@ -1,6 +1,6 @@
-### <div align="center"> PETRONAS Scholar | CS @ University of Maryland | Alpha Lambda Delta Honor Society | Director of Communications @ NAMSA.  </div>
+### <div align="center"> Welcome! </div>
 
-<div align="center">Acta non verba.</div>
+<div align="center">PETRONAS Scholar | CS @ University of Maryland | Alpha Lambda Delta Honor Society | Director of Communications @ NAMSA. </div>
 
 <br/>
 
