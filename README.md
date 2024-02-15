@@ -1,4 +1,4 @@
-### <div align="center"> Welcome to my digital odyssey! </div>
+### <div align="center"> A digital odyssey</div>
 
 <div align="center">PETRONAS Scholar | CS @ University of Maryland | Alpha Lambda Delta Honor Society | Director of Communications @ NAMSA. </div>
 
